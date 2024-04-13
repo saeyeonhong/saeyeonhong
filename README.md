@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Software Developer from South Korea<br><br>- 📚 I'm currently learning javascript and React<br>- ⚡ In my free time I</p>
+<p align="left">I'm Software Developer from South Korea<br><br>- 📚 I'm currently ... <br>- ⚡ In my free time I study German and Japanese </p>
 
 ###
 
