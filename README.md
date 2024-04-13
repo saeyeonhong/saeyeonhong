@@ -34,11 +34,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Seannnn55/Seannnn55/output/snake.svg" alt="Snake animation" />
-
-###
