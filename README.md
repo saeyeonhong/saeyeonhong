@@ -7,11 +7,15 @@
 
 ###
 
+<p align="left">My name is Saeyeon and I'm Software Developer from South Korea <br>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Software Developer from South Korea<br><br>- 📚 I'm currently learning React <br>- ⚡ In my free time I study German on DuoLingo</p>
+<p align="left">- 📚 I'm currently learning React <br> - 🎯 My goal is  <br>- ⚡ In my free time I study German on DuoLingo</p>
 
 ###
 
