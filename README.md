@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning React <br> - 🎯 My goal is  <br>- ⚡ In my free time I study German on DuoLingo</p>
+<p align="left">- 📚 I'm currently learning React <br>- ⚡ In my free time I study German on DuoLingo</p>
 
 ###
 
@@ -30,11 +30,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript"  />
 </div>
 
 ###
