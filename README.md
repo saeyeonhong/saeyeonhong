@@ -39,6 +39,14 @@
 
 ###
 
+ <h3 align="left">🔥   My stats :</h3>
+
+ ###
+
+ <img src="https://raw.githubusercontent.com/Seannnn55/Seannnn55/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">👷 Projects </h3>
 
 <p align="left"> you can find my works below ⬇️⬇️⬇️ </p>
