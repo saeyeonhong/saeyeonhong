@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Saeyeon and I'm Software Developer from South Korea <br>
+<p align="left">My name is Saeyeon and I'm a Software Developer from South Korea <br>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning React <br>- ⚡ In my free time I study German on DuoLingo</p>
+<p align="left">- 📚 I'm currently learning React <br>- 🤓 I love algorithm and problem-solving <br>- ⚡ In my free time I study German on DuoLingo</p>
 
 ###
 
@@ -40,8 +40,6 @@
 ###
 
  <h3 align="left">🔥   My stats :</h3>
-
- ###
 
  <img src="https://raw.githubusercontent.com/Seannnn55/Seannnn55/output/snake.svg" alt="Snake animation" />
 
