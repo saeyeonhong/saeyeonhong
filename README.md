@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning React <br>- 🤓 I love algorithm and problem-solving <br>- ⚡ In my free time I study German on DuoLingo</p>
+<p align="left">- 📚 I'm currently learning React <br>- 🤓 I love algorithm and problem-solving <br>- ⚡ In my free time I play on DuoLingo</p>
 
 ###
 
