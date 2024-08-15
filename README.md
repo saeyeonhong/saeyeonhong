@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">-  <br>- 🤓 I love algorithm and problem-solving <br>- ⚡ In my free time I play on DuoLingo</p>
+<p align="left">  <br>- 🤓 I love algorithm and problem-solving <br>- ⚡ In my free time I play on DuoLingo</p>
 
 ###
 
