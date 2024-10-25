@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">My name is Saeyeon and I'm a Software Developer from South Korea <br>
+<p align="left">My name is Saeyeon and I'm an AU Developer from South Korea <br>
 
 ###
 
